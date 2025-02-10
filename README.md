@@ -59,6 +59,7 @@ R1# show ip protocols
 R1# show ip route
 ```
 
+## EIGRP + GRE VPN tunnel config 
 ```bash
 
 
