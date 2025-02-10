@@ -2,6 +2,8 @@
 ## ospfv2 sokkal jobb by the way | only ospfv kein gooning for eigrp |
 [ospfv](/ospfv.webp)
 ![OSPFv2 Minion](ospfv.webp)
+<img src="ospfv.webp" alt="OSPFv2 Minion" width="400">
+
 
 __forras:__ https://szit.hu/doku.php?id=oktatas:halozat:cisco:eigrp
 
