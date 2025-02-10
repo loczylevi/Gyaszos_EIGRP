@@ -1,7 +1,7 @@
 # Gyaszos_EIGRP
 ## ospfv2 sokkal jobb by the way | only ospfv kein gooning for eigrp |
-[ospfv](/ospfv.webp)
-![OSPFv2 Minion](ospfv.webp)
+<!-- [ospfv](/ospfv.webp)
+![OSPFv2 Minion](ospfv.webp) -->
 <img src="ospfv.webp" alt="OSPFv2 Minion" width="400">
 
 
