@@ -1,5 +1,6 @@
 # Gyaszos_EIGRP
 ## ospfv2 sokkal jobb by the way | only ospfv kein gooning for eigrp |
+[ospfv](/ospfv.webp)
 
 __forras:__ https://szit.hu/doku.php?id=oktatas:halozat:cisco:eigrp
 
