@@ -60,13 +60,15 @@ R1# show ip route
 ```
 
 ## EIGRP + GRE VPN tunnel config 
-```bash
 
+# R1 config
+```bash
 
 en
 
 
 conf t
+hostname R1
 
 router eigrp 1
  eigrp router-id 3.3.3.3
@@ -84,13 +86,15 @@ ip route 106.159.56.0 255.255.255.0 192.168.3.2
 
 
 
-
--_______________________________________________________
+```
+# R2 config
+```bash
 
 en
 
 
 conf t
+hostname R2
 router eigrp 1
  eigrp router-id 2.2.2.2
  passive-interface FastEthernet0/1
